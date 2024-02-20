@@ -1,23 +1,37 @@
-# Flutter app in Zapp!
+# Flutter Onboarding Screen and Login Page
 
-A new Flutter project built with Zapp!
+This Flutter project showcases an Onboarding Screen and a Login Page designed to enhance the user experience of your mobile application.
 
-----
+## Screenshots
 
-> To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
+![Onboarding Screen](screenshots/onboarding_screen.png)
+![Login Page](screenshots/login_page.png)
 
-----
+## Features
 
-## Getting Started
+### Onboarding Screen
+- Introduces users to the app's key features.
+- Provides a smooth transition to the main application.
 
-This project is a starting point for a Flutter application.
+### Login Page
+- Allows users to authenticate and access their accounts.
+- Supports email and password-based login.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+https://github.com/Jihad82/Onboarding-Screen-and-Login-page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
+2. Navigate to the project directory:
+
+3. Install dependencies:
+
+4. Run the app:
+
+
+## Usage
+
+1. Launch the app on a simulator or physical device.
+2. Follow the onboarding screens to learn about the app's features.
+3. Use the provided login page to authenticate and access your account.
