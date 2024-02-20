@@ -60,7 +60,12 @@ class _LoginFormState extends State<LoginForm> {
             backgroundColor: Color.fromARGB(
                 248, 13, 253, 65), // Change the background color to green
           ),
-          child: Text('Login'),
+          child: Text(
+            'Login',
+            style: TextStyle(
+              color: Colors.white, // Set text color to white
+            ),
+          ),
         ),
       ],
     );
