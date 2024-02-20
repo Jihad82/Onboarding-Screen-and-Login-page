@@ -4,9 +4,6 @@ This Flutter project showcases an Onboarding Screen and a Login Page designed to
 
 ## Screenshots
 
-![Onboarding Screen](screenshots/onboarding_screen.png)
-![Login Page](screenshots/login_page.png)
-
 ## Features
 
 ### Onboarding Screen
