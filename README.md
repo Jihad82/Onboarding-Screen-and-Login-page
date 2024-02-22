@@ -2,8 +2,6 @@
 
 This Flutter project showcases an Onboarding Screen and a Login Page designed to enhance the user experience of your mobile application.
 
-## Screenshots
-
 ## Features
 
 ### Onboarding Screen
